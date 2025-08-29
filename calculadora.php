@@ -43,6 +43,7 @@
                 $total = $num1 + $num2;
                 $operator = "+";
             } elseif ($operation == "subtract") {
+                //JP
                 $total = $num1 - $num2;
                 $operator = "-";
             }
